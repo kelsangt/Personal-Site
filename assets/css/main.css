@@ -3258,11 +3258,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #3e3ba5;;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #343190;;
 		}
 
 		.wrapper.fullscreen {
@@ -3942,6 +3942,6 @@ input, select, textarea {
 
 #techImg {
 	width: 80px;
-	margin-right: 30px;
+	margin-right: 25px;
 }
 
