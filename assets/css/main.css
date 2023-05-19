@@ -3945,3 +3945,13 @@ input, select, textarea {
 	margin-right: 25px;
 }
 
+.icons {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 400px;
+}
+
+#ul-icons {
+	font-size: 50px;
+}
