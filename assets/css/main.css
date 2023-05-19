@@ -3955,3 +3955,16 @@ input, select, textarea {
 #ul-icons {
 	font-size: 50px;
 }
+
+.icons-2 {
+	display: flex;
+	cursor: default;
+	list-style: none;
+	padding-left: 0;
+	height: 100px;
+	flex-direction: row;
+}
+
+#icons-2-github {
+	margin-right: 10px;
+}
