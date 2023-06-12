@@ -3242,15 +3242,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #3b2968;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #3f2b70;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #404191;
 		}
 
 		.wrapper.style2-alt {
@@ -3258,7 +3258,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #3e3ba5;;
+			background-color: #333070;;
 		}
 
 		.wrapper.style3-alt {
@@ -3372,7 +3372,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #3b2968;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3917,6 +3917,7 @@ input, select, textarea {
 
 .mainBody {
 	margin-top: 30px;
+	color: rgb(220, 217, 217);
 }
 
 #introDiv {
@@ -3967,4 +3968,12 @@ input, select, textarea {
 
 #icons-2-github {
 	margin-right: 10px;
+}
+
+#introDescription {
+	color: rgb(220, 217, 217);
+}
+
+.projectDescription {
+	color: rgb(220, 217, 217);
 }
